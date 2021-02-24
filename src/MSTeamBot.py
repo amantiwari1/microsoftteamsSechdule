@@ -10,6 +10,8 @@ from colorama import Fore, Back, Style
 init()
 from os import path
 
+
+
 bundle_dir = getattr(sys, '_MEIPASS', path.abspath(path.dirname(__file__)))
 data_path = os.path.abspath(path.join(bundle_dir, 'data.json'))
 
