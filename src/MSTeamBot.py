@@ -76,6 +76,9 @@ for i in data["thursday"]:
 for i in data["friday"]:
     schedule.every().friday.at(i["time"]).do(OpenApp, i["url"])
 
+for i in data["sunday"]:
+    schedule.every().sunday.at(i["time"]).do(OpenApp, i["url"])
+
 
 
 
