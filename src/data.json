@@ -1,95 +1,111 @@
 {
   "monday": [
     {
-      "Name": "Java Programming LAB",
+      "Name": "Computer Networks",
       "time": "09:00",
-      "url": "https://teams.microsoft.com/l/team/19%3af4135c204a104afaba3327e6f4cac481%40thread.tacv2/conversations?groupId=63f7efcb-c705-4e6f-8993-70cf24502d73&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "url": "https://teams.microsoft.com/l/team/19%3aptMKpT64TSTk4ikKRAyREFxhMCViVdA3VqSI3NAE_Mk1%40thread.tacv2/conversations?groupId=1f4a5b1f-fecc-4ee3-9b6f-4f3048b6928c&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+    },
+    {
+      "Name": "Management Information Systems",
+      "time": "10:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aoViWngPFgozZ6EEABQHNn4bEIIaUJ-ocoFjd53K4UdI1%40thread.tacv2/conversations?groupId=53290be6-1a24-4b34-88bf-5488d15276b1&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
 
     {
-      "Name": "Visual basis is dead LAB",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a70b2ed43617b4e8fb38744e2038ece07%40thread.tacv2/conversations?groupId=78e96446-ae4d-4bba-a41a-82c209caeb71&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Python Programming",
+      "time": "11:00",
+      "url": "https://teams.microsoft.com/l/channel/19%3a843a10602a5f479fb7abbe29e92ce4ea%40thread.tacv2/CA277%2520Python%2520Programming?groupId=0b600736-3839-4ee6-b96e-54af8d0c30fc&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "DMBS LAB",
-      "time": "15:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a10ec3a3f6b3c41a2bd9474d7ed3c28f2%40thread.tacv2/conversations?groupId=0c647454-34e2-4655-ad09-aac11e2232de&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Computer Graphics and Multimedia",
+      "time": "12:00",
+      "url": "https://teams.microsoft.com/l/team/19%3ad5xghkk1n8WtRVnUpMuhk3NjSCaJR7VCK5QNx7Li2Yg1%40thread.tacv2/conversations?groupId=2048c4d7-17b4-4b23-a2a0-5e272c04ebdd&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+    },
+    {
+      "Name": "Network Security",
+      "time": "13:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aM3flCiK2FC3bhiSM980AjoY19YBOzqS3BK7CefY6pB01%40thread.tacv2/conversations?groupId=35e1b9fd-5d54-4551-a260-6d47d6c41065&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     }
   ],
   "tuesday": [
     {
-      "Name": "Java Programming LAB",
-      "time": "09:00",
-      "url": "https://teams.microsoft.com/l/team/19%3af4135c204a104afaba3327e6f4cac481%40thread.tacv2/conversations?groupId=63f7efcb-c705-4e6f-8993-70cf24502d73&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Python Programming",
+      "time": "10:00",
+      "url": "https://teams.microsoft.com/l/channel/19%3a843a10602a5f479fb7abbe29e92ce4ea%40thread.tacv2/CA277%2520Python%2520Programming?groupId=0b600736-3839-4ee6-b96e-54af8d0c30fc&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "DMBS LAB",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a10ec3a3f6b3c41a2bd9474d7ed3c28f2%40thread.tacv2/conversations?groupId=0c647454-34e2-4655-ad09-aac11e2232de&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
-    },
-    {
-      "Name": "Internet Technologies Lab",
-      "time": "15:00",
-      "url": "https://teams.microsoft.com/l/team/19%3afe8495b3a41d4a19b61bcba0a19ec252%40thread.tacv2/conversations?groupId=024a6276-8ea1-4a6d-a8ea-f77541f2733b&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Management Information Systems",
+      "time": "11:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aoViWngPFgozZ6EEABQHNn4bEIIaUJ-ocoFjd53K4UdI1%40thread.tacv2/conversations?groupId=53290be6-1a24-4b34-88bf-5488d15276b1&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     }
+    
   ],
 
   "wednesday": [
     {
-      "Name": "Java Programming LAB",
+      "Name": "Python Programming",
       "time": "09:00",
-      "url": "https://teams.microsoft.com/l/team/19%3af4135c204a104afaba3327e6f4cac481%40thread.tacv2/conversations?groupId=63f7efcb-c705-4e6f-8993-70cf24502d73&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "url": "https://teams.microsoft.com/l/channel/19%3a843a10602a5f479fb7abbe29e92ce4ea%40thread.tacv2/CA277%2520Python%2520Programming?groupId=0b600736-3839-4ee6-b96e-54af8d0c30fc&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Internet Technologies Lab",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3afe8495b3a41d4a19b61bcba0a19ec252%40thread.tacv2/conversations?groupId=024a6276-8ea1-4a6d-a8ea-f77541f2733b&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Computer Graphics and Multimedia",
+      "time": "10:00",
+      "url": "https://teams.microsoft.com/l/team/19%3ad5xghkk1n8WtRVnUpMuhk3NjSCaJR7VCK5QNx7Li2Yg1%40thread.tacv2/conversations?groupId=2048c4d7-17b4-4b23-a2a0-5e272c04ebdd&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Visual basis is dead LAB",
+      "Name": "Computer Graphics and Multimedia LAB",
       "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a70b2ed43617b4e8fb38744e2038ece07%40thread.tacv2/conversations?groupId=78e96446-ae4d-4bba-a41a-82c209caeb71&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "url": "https://teams.microsoft.com/l/team/19%3advnxEy5AC5UD-Fv12azxFL3XEMq0TmpfKZD7XNX2aKE1%40thread.tacv2/conversations?groupId=5dc48573-a2ef-414e-aac1-c99f30f7f869&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+    },
+    {
+      "Name": "Computer Networks",
+      "time": "16:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aptMKpT64TSTk4ikKRAyREFxhMCViVdA3VqSI3NAE_Mk1%40thread.tacv2/conversations?groupId=1f4a5b1f-fecc-4ee3-9b6f-4f3048b6928c&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     }
   ],
 
   "thursday": [
     {
-      "Name": "DMBS LAB",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a10ec3a3f6b3c41a2bd9474d7ed3c28f2%40thread.tacv2/conversations?groupId=0c647454-34e2-4655-ad09-aac11e2232de&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Management Information Systems",
+      "time": "09:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aoViWngPFgozZ6EEABQHNn4bEIIaUJ-ocoFjd53K4UdI1%40thread.tacv2/conversations?groupId=53290be6-1a24-4b34-88bf-5488d15276b1&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Internet Technologies Lab",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3afe8495b3a41d4a19b61bcba0a19ec252%40thread.tacv2/conversations?groupId=024a6276-8ea1-4a6d-a8ea-f77541f2733b&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Python Programming",
+      "time": "10:00",
+      "url": "https://teams.microsoft.com/l/channel/19%3a843a10602a5f479fb7abbe29e92ce4ea%40thread.tacv2/CA277%2520Python%2520Programming?groupId=0b600736-3839-4ee6-b96e-54af8d0c30fc&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Visual basis is dead LAB",
+      "Name": "Network Security",
+      "time": "11:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aM3flCiK2FC3bhiSM980AjoY19YBOzqS3BK7CefY6pB01%40thread.tacv2/conversations?groupId=35e1b9fd-5d54-4551-a260-6d47d6c41065&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+    },
+    {
+      "Name": "Python Programming Lab",
       "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a70b2ed43617b4e8fb38744e2038ece07%40thread.tacv2/conversations?groupId=78e96446-ae4d-4bba-a41a-82c209caeb71&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "url": "https://teams.microsoft.com/l/channel/19%3ae37643a6b57b4954bd8ce02061b4663d%40thread.tacv2/CA278%2520Python%2520Programming%2520Lab?groupId=0b600736-3839-4ee6-b96e-54af8d0c30fc&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     }
   ],
   "friday": [
     {
-      "Name": "DMBS LAB",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a10ec3a3f6b3c41a2bd9474d7ed3c28f2%40thread.tacv2/conversations?groupId=0c647454-34e2-4655-ad09-aac11e2232de&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Computer Networks",
+      "time": "09:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aptMKpT64TSTk4ikKRAyREFxhMCViVdA3VqSI3NAE_Mk1%40thread.tacv2/conversations?groupId=1f4a5b1f-fecc-4ee3-9b6f-4f3048b6928c&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Internet Technologies Lab",
+      "Name": "Network Security",
+      "time": "10:00",
+      "url": "https://teams.microsoft.com/l/team/19%3aM3flCiK2FC3bhiSM980AjoY19YBOzqS3BK7CefY6pB01%40thread.tacv2/conversations?groupId=35e1b9fd-5d54-4551-a260-6d47d6c41065&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+    },
+    {
+      "Name": "Computerized Accounting and ERP LAB",
       "time": "11:00",
-      "url": "https://teams.microsoft.com/l/team/19%3afe8495b3a41d4a19b61bcba0a19ec252%40thread.tacv2/conversations?groupId=024a6276-8ea1-4a6d-a8ea-f77541f2733b&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "url": "https://teams.microsoft.com/l/team/19%3advnxEy5AC5UD-Fv12azxFL3XEMq0TmpfKZD7XNX2aKE1%40thread.tacv2/conversations?groupId=5dc48573-a2ef-414e-aac1-c99f30f7f869&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     },
     {
-      "Name": "Java Programming LAB",
-      "time": "13:00",
-      "url": "https://teams.microsoft.com/l/team/19%3af4135c204a104afaba3327e6f4cac481%40thread.tacv2/conversations?groupId=63f7efcb-c705-4e6f-8993-70cf24502d73&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
-    },
-    {
-      "Name": "Visual basis is dead LAB",
-      "time": "12:00",
-      "url": "https://teams.microsoft.com/l/team/19%3a70b2ed43617b4e8fb38744e2038ece07%40thread.tacv2/conversations?groupId=78e96446-ae4d-4bba-a41a-82c209caeb71&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
+      "Name": "Computer Graphics and Multimedia",
+      "time": "15:00",
+      "url": "https://teams.microsoft.com/l/team/19%3ad5xghkk1n8WtRVnUpMuhk3NjSCaJR7VCK5QNx7Li2Yg1%40thread.tacv2/conversations?groupId=2048c4d7-17b4-4b23-a2a0-5e272c04ebdd&tenantId=12b4fbf9-dea8-4490-bede-9cc40309ad61"
     }
   ]
 }
